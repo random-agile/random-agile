@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @random-agile (yes it's a snatcher reference)
-- 👀 I’m interested in becoming better at coding in general
-- 🌱 I’m currently learning Data Science & Machine Learning
-- 💞️ I’m looking to collaborate on everything that will hype us
-- 📫 How to reach me : send me a dm on discord, Bunss#6275
+- 🌱 I’m currently learning Data Science & Machine Learning and DOTS for Unity.
+- 💞️ I’m looking to collaborate on everything that will hype both of us
 
 <!---
 random-agile/random-agile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
