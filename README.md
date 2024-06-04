@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @random-agile (yes it's a snatcher reference)
-- 🌱 I’m currently learning Data Science & Machine Learning and DOTS for Unity.
+- 🌱 I’m currently creating low resolution games on Unity
 - 💞️ I’m looking to collaborate on everything that will hype both of us
 
 <!---
